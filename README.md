@@ -65,7 +65,7 @@ python3 scripts/obsctl.py sources volume --source "Mic" --volume 0.7
 python3 scripts/obsctl.py screenshot scene --name "Desktop"
 ```
 
-See [full help](https://github.com/miniding/hermes-obs-studio/blob/main/scripts/obsctl.py) or run `python3 scripts/obsctl.py --help`.
+See [full help](https://github.com/Foolafroos/hermes-obs-studio/blob/main/scripts/obsctl.py) or run `python3 scripts/obsctl.py --help`.
 
 ## Configuration
 
